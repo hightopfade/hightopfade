@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Open Source Contributions
 ### Metasploit / Exploit DB
 - https://www.exploit-db.com/search?e_author=James+Fitts
@@ -34,7 +32,7 @@
 ### DomainMod
 - https://github.com/domainmod/domainmod/pull/116
 
-# Powershell Empire
+### Powershell Empire
 - https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/modules/powershell/code_execution/invoke_ntsd.py
 - https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/modules/powershell/management/reflective_inject.py
 - https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/stagers/windows/macroless_msword.py
