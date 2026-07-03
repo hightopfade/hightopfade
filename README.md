@@ -3,26 +3,17 @@
 - https://www.exploit-db.com/search?e_author=James+Fitts
 
 ### Atomic Red Team
-- Excel4Macro
-  - https://github.com/redcanaryco/atomic-red-team/pull/1312
-- Extract Memory via VBA
-  - https://github.com/redcanaryco/atomic-red-team/pull/1318
-- Encoded VBS code execution
-  - https://github.com/redcanaryco/atomic-red-team/pull/1314
-- Task Scheduler via VBA
-  - https://github.com/redcanaryco/atomic-red-team/pull/1317
-- RunPE via VBS
-  - https://github.com/redcanaryco/atomic-red-team/pull/1316
-- Collect Clipboard Data via VBA
-  - https://github.com/redcanaryco/atomic-red-team/pull/1321
-- Extract Binary files via VBA
-  - https://github.com/redcanaryco/atomic-red-team/pull/1332
-- Clear Event Logs via VBA
-  - https://github.com/redcanaryco/atomic-red-team/pull/1333
-- Shellcode Execution via VBA
-  - https://github.com/redcanaryco/atomic-red-team/pull/1326
-- Extract the Windows Credential Manager via VBA
-  - https://github.com/redcanaryco/atomic-red-team/pull/1327
+- [Excel4Macro](https://github.com/redcanaryco/atomic-red-team/pull/1312)
+- [Extract Memory via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1318)
+- [Encoded VBS code execution](https://github.com/redcanaryco/atomic-red-team/pull/1314)
+- [Task Scheduler via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1317)
+- [RunPE via VBS](https://github.com/redcanaryco/atomic-red-team/pull/1316)
+- [Collect Clipboard Data via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1321)
+- [Extract Binary files via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1332)
+- [Clear Event Logs via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1333)
+- [Shellcode Execution via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1326)
+- [Extract the Windows Credential Manager via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1327)
+- [Headless Chrome code execution via VBA](https://github.com/redcanaryco/atomic-red-team/pull/1348)
 
 ### DomainCat
 - https://github.com/l0gan/domainCat/pull/7
@@ -33,9 +24,9 @@
 - https://github.com/domainmod/domainmod/pull/116
 
 ### Powershell Empire
-- https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/modules/powershell/code_execution/invoke_ntsd.py
-- https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/modules/powershell/management/reflective_inject.py
-- https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/stagers/windows/macroless_msword.py
+- [Invoke NTSD](https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/modules/powershell/code_execution/invoke_ntsd.py)
+- [Reflective Inject](https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/modules/powershell/management/reflective_inject.py)
+- [Macroless MSWord](https://github.com/EmpireProject/Empire/blob/08cbd274bef78243d7a8ed6443b8364acd1fc48b/lib/stagers/windows/macroless_msword.py)
 
 ### Sockdrawer
 - https://github.com/srcmtd/sockdrawer/pull/35
